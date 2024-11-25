@@ -6,6 +6,11 @@
 
 import streamlit as st
 from openai import OpenAI
+import streamlit as st
+from langchain_core.messages import AIMessage, HumanMessage
+from langchain_openai import ChatOpenAI
+from langchain_core.output_parsers import StrOutputParser
+from langchain_core.prompts import ChatPromptTemplate
 
 # app config
 path_img = './img/GIM Desarrollos Logo.png'
@@ -18,27 +23,13 @@ st.image(path_img, use_container_width = True)
 # Point to the local server
 client = OpenAI(base_url="http://127.0.0.1:1234/v1", api_key="lm-studio")
 modelo = "local-model" # si tienes la API de pago: gpt-4 , gpt-3.5, etc
-
-####
-#### Streamlit Streaming using LM Studio as OpenAI Standin
-#### run with `streamlit run app.py`
-
-# !pip install pypdf langchain langchain_openai 
-
-import streamlit as st
-from langchain_core.messages import AIMessage, HumanMessage
-from langchain_openai import ChatOpenAI
-from langchain_core.output_parsers import StrOutputParser
-from langchain_core.prompts import ChatPromptTemplate
-
-
 # app config
 path_img = './img/GIM Desarrollos Logo.png'
 
-st.set_page_config(page_title="Asistente Virtual ACE - MVP", page_icon="🤖")
+st.set_page_config(page_title="BOT Inteligente - MVP", page_icon="🤖")
 col1, col2, col3 = st.columns([1,10,1])
 with col2:
-    st.title("Asistente Virtual ACE - Beta")
+    st.title("BOT Inteligente ACE - Beta")
 st.image(path_img, use_container_width = True)
 
 # Point to the local server

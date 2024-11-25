@@ -14,10 +14,10 @@ from langchain_core.prompts import ChatPromptTemplate
 # app config
 path_img = './img/GIM Desarrollos Logo.png'
 
-st.set_page_config(page_title="Asistente Virtual ACE - MVP", page_icon="🤖")
+st.set_page_config(page_title="BOT Inteligente - MVP", page_icon="🤖")
 col1, col2, col3 = st.columns([1,10,1])
 with col2:
-    st.title("Asistente Virtual ACE - Beta")
+    st.title("BOT Inteligente - MVP")
 st.image(path_img, use_container_width = True)
 
 # Point to the local server

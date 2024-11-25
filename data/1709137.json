@@ -1,0 +1,138 @@
+{
+    "RecID": 1709137,
+    "Fecha": "27/10/2024 04:48:54 p. m.",
+    "Servicio": "0",
+    "Login": "4116",
+    "Agente": "Geovanny Morales Zuñiga",
+    "Telefono": "10009871113146",
+    "CONTACTID": "0",
+    "Tipo": "1",
+    "conversacion": [
+        {
+            "inicio": "0.00",
+            "fin": "6.24",
+            "autor": "Cliente",
+            "texto": " Bueno, ¿quién llama?"
+        },
+        {
+            "inicio": "1.12",
+            "fin": "4.96",
+            "autor": "Agente",
+            "texto": " Hola, ¿qué tal? Buen día, tengo el gusto de conocer a la señorita Lau Larios."
+        },
+        {
+            "inicio": "6.82",
+            "fin": "22.14",
+            "autor": "Cliente",
+            "texto": " Ah, ok, yo estoy, este, mira, no puedo, buenas tardes, no puedo contestar ahorita, este, ¿me podrías mandar la información a mi número?"
+        },
+        {
+            "inicio": "7.05",
+            "fin": "11.89",
+            "autor": "Agente",
+            "texto": " Habla tu servidor, Giovanni Morales, de el Desarrollo Residencial Turquesa en Cancún."
+        },
+        {
+            "inicio": "14.94",
+            "fin": "16.24",
+            "autor": "Agente",
+            "texto": " ¿Cómo estás, Lau? Buenas tardes."
+        },
+        {
+            "inicio": "23.14",
+            "fin": "25.80",
+            "autor": "Agente",
+            "texto": " Sí, sin problema. De hecho, mira, yo estoy en la Ciudad de México, Lau,"
+        },
+        {
+            "inicio": "25.94",
+            "fin": "31.82",
+            "autor": "Agente",
+            "texto": " y la intención es platicar, bueno, platicar un poquito para asignarte con uno de mis expertos desde Cancún."
+        },
+        {
+            "inicio": "32.06",
+            "fin": "36.72",
+            "autor": "Agente",
+            "texto": " Incluso veo que hace unos meses también te habían brindado información."
+        },
+        {
+            "inicio": "36.98",
+            "fin": "38.92",
+            "autor": "Agente",
+            "texto": " Me imagino que ya no se contactaron contigo."
+        },
+        {
+            "inicio": "37.80",
+            "fin": "43.82",
+            "autor": "Cliente",
+            "texto": " Ah, lo voy a checar, sí, voy a checarlo y este, y ya te aviso en la semana, ¿te parece?"
+        },
+        {
+            "inicio": "38.92",
+            "fin": "47.18",
+            "autor": "Agente",
+            "texto": " Claro que sí, te voy a ir haciendo llegar la información de igual forma,"
+        },
+        {
+            "inicio": "47.34",
+            "fin": "52.28",
+            "autor": "Agente",
+            "texto": " los nuevos precios, las promociones, la disponibilidad, a través de uno de mis expertos."
+        },
+        {
+            "inicio": "53.00",
+            "fin": "56.32",
+            "autor": "Agente",
+            "texto": " Indícanos en qué horario te podemos contactar, este, Lau, otro día, obviamente."
+        },
+        {
+            "inicio": "56.53",
+            "fin": "61.53",
+            "autor": "Cliente",
+            "texto": " Yo creo que sería el jueves, jueves como a esta hora más o menos, sí."
+        },
+        {
+            "inicio": "59.36",
+            "fin": "59.86",
+            "autor": "Agente",
+            "texto": " El jueves."
+        },
+        {
+            "inicio": "60.84",
+            "fin": "63.80",
+            "autor": "Agente",
+            "texto": " Ah, excelente. Nada más ayúdame, ¿es Laura Larios qué, perdón?"
+        },
+        {
+            "inicio": "65.22",
+            "fin": "67.44",
+            "autor": "Cliente",
+            "texto": " Laura, déjale así, por favor."
+        },
+        {
+            "inicio": "67.32",
+            "fin": "68.96",
+            "autor": "Agente",
+            "texto": " Laura. Ah, excelente, Laura."
+        },
+        {
+            "inicio": "67.44",
+            "fin": "72.12",
+            "autor": "Cliente",
+            "texto": " Gracias, gracias, buen día."
+        },
+        {
+            "inicio": "69.46",
+            "fin": "71.16",
+            "autor": "Agente",
+            "texto": " No, para servirte, buen día. Hasta luego."
+        },
+        {
+            "inicio": "72.52",
+            "fin": "73.06",
+            "autor": "Agente",
+            "texto": " Hasta luego."
+        }
+    ]
+}

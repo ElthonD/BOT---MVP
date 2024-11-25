@@ -1,0 +1,444 @@
+{
+    "RecID": 1709010,
+    "Fecha": "27/10/2024 03:13:13 p. m.",
+    "Servicio": "0",
+    "Login": "4111",
+    "Agente": "Eduardo Juarez Pastrana",
+    "Telefono": "99406643100118",
+    "CONTACTID": "0",
+    "Tipo": "1",
+    "conversacion": [
+        {
+            "inicio": "1.04",
+            "fin": "1.56",
+            "autor": "Cliente",
+            "texto": " Hola."
+        },
+        {
+            "inicio": "2.00",
+            "fin": "5.06",
+            "autor": "Agente",
+            "texto": " Hola, ¿qué tal? Muy buenas tardes. Tengo un gusto para la señorita Amelia Moreno."
+        },
+        {
+            "inicio": "5.42",
+            "fin": "6.10",
+            "autor": "Cliente",
+            "texto": " Así es."
+        },
+        {
+            "inicio": "6.54",
+            "fin": "22.28",
+            "autor": "Agente",
+            "texto": " Mucho gusto, señorita. Mi nombre es Eduardo Pastrana. Un gusto saludarle. Me estoy comunicando con usted de parte del proyecto Ciudad Natura. Es un conjunto de casas ubicado en el estado de Hidalgo, en el municipio de Tizayuca. El día de hoy nos comparte amablemente una solicitud de información. No sé si está en búsqueda de propiedad, señorita Amelia."
+        },
+        {
+            "inicio": "22.75",
+            "fin": "23.47",
+            "autor": "Cliente",
+            "texto": " Así es."
+        },
+        {
+            "inicio": "24.18",
+            "fin": "31.16",
+            "autor": "Agente",
+            "texto": " Muchísimas gracias, Miguel. La intención de esta llamada es ser muy breve, informarle brevemente y si así lo desea, le comparto toda la información a su WhatsApp. ¿Está bien?"
+        },
+        {
+            "inicio": "31.60",
+            "fin": "32.56",
+            "autor": "Cliente",
+            "texto": " Sí, por favor."
+        },
+        {
+            "inicio": "32.00",
+            "fin": "45.34",
+            "autor": "Agente",
+            "texto": " Muchísimas gracias, Miguel. En este proyecto llamado Ciudad Natura, ubicado en el municipio de Tizayuca, Hidalgo, por el momento estamos contando con tres modelos de propiedades. Son casas duplex y casas solas de dos y tres habitaciones."
+        },
+        {
+            "inicio": "45.72",
+            "fin": "56.00",
+            "autor": "Agente",
+            "texto": " Señorita, para no saturarla de información, no sé si ya cuente con alguna particularidad que esté buscando, como algún número de habitaciones, alguna característica en especial o algún presupuesto en específico. Platíqueme un poco de su búsqueda."
+        },
+        {
+            "inicio": "55.44",
+            "fin": "58.30",
+            "autor": "Cliente",
+            "texto": " Mi presupuesto, de acuerdo al crédito de infonavit."
+        },
+        {
+            "inicio": "58.97",
+            "fin": "60.81",
+            "autor": "Agente",
+            "texto": " Ok. ¿Cuál sería el presupuesto que quiere manejar?"
+        },
+        {
+            "inicio": "61.60",
+            "fin": "62.64",
+            "autor": "Cliente",
+            "texto": " 650 más."
+        },
+        {
+            "inicio": "63.10",
+            "fin": "64.28",
+            "autor": "Agente",
+            "texto": " 650.000. Perfecto."
+        },
+        {
+            "inicio": "64.28",
+            "fin": "83.02",
+            "autor": "Agente",
+            "texto": " El primer modelo con el que contamos es el modelo de Titanium. Es una casa duplex de dos habitaciones que parte desde los 640.000 pesos. Igual, si quiere validar el modelo de planta baja, porque el primero que le comento es planta alta, este parte desde los 715.000, pero la ventaja es que tiene un descuento de 30.000 pesos en caso de diferencia."
+        },
+        {
+            "inicio": "83.36",
+            "fin": "89.30",
+            "autor": "Agente",
+            "texto": " Igual, si guste, ahorita le voy a llegar justamente todo esto que le estoy mencionando para que pueda contemplarlo, pueda conocer el modelo, no sé qué le parece."
+        },
+        {
+            "inicio": "91.94",
+            "fin": "95.30",
+            "autor": "Agente",
+            "texto": " Ya nada más para finalizar y no quitarle más tiempo, señorita María, me gustaría..."
+        },
+        {
+            "inicio": "95.56",
+            "fin": "98.00",
+            "autor": "Agente",
+            "texto": " Primero, los datos que nos comparte nuestro portal, ¿me permite?"
+        },
+        {
+            "inicio": "99.88",
+            "fin": "105.14",
+            "autor": "Agente",
+            "texto": " Muchísimas gracias. Mire, su nombre únicamente nos lo comparte como Amelia Moreno. ¿Me podría apoyar, por favor, con su nombre completo y correcto?"
+        },
+        {
+            "inicio": "106.14",
+            "fin": "107.60",
+            "autor": "Cliente",
+            "texto": " Escobedo, Amalia Moreno Escobedo."
+        },
+        {
+            "inicio": "108.04",
+            "fin": "109.28",
+            "autor": "Agente",
+            "texto": " Escobedo. Muchísimas gracias."
+        },
+        {
+            "inicio": "109.28",
+            "fin": "115.64",
+            "autor": "Agente",
+            "texto": " Nos comparte también un correo que nos aparece como amelicony-moreno-hotmail.com. Es correcto."
+        },
+        {
+            "inicio": "116.48",
+            "fin": "117.42",
+            "autor": "Cliente",
+            "texto": " No, ya no lo utilizo."
+        },
+        {
+            "inicio": "118.05",
+            "fin": "119.35",
+            "autor": "Agente",
+            "texto": " Ok. ¿Si gusta actualizármelo?"
+        },
+        {
+            "inicio": "120.14",
+            "fin": "126.34",
+            "autor": "Cliente",
+            "texto": " Sí, es agua, blanca, arroba."
+        },
+        {
+            "inicio": "121.54",
+            "fin": "122.14",
+            "autor": "Agente",
+            "texto": " Agua, sí."
+        },
+        {
+            "inicio": "123.84",
+            "fin": "124.36",
+            "autor": "Agente",
+            "texto": " Blanca."
+        },
+        {
+            "inicio": "126.72",
+            "fin": "127.16",
+            "autor": "Cliente",
+            "texto": " Ay, perdón."
+        },
+        {
+            "inicio": "127.76",
+            "fin": "129.10",
+            "autor": "Cliente",
+            "texto": " No, sin arroba."
+        },
+        {
+            "inicio": "129.57",
+            "fin": "130.31",
+            "autor": "Agente",
+            "texto": " Ok. Ajá."
+        },
+        {
+            "inicio": "130.67",
+            "fin": "133.05",
+            "autor": "Agente",
+            "texto": " Ok. Amelia."
+        },
+        {
+            "inicio": "131.02",
+            "fin": "135.21",
+            "autor": "Cliente",
+            "texto": " Amalia, arroba, y no el punto."
+        },
+        {
+            "inicio": "133.87",
+            "fin": "135.27",
+            "autor": "Agente",
+            "texto": " Ok. Si ve agua..."
+        },
+        {
+            "inicio": "135.27",
+            "fin": "136.27",
+            "autor": "Agente",
+            "texto": " ...arroba..."
+        },
+        {
+            "inicio": "136.35",
+            "fin": "137.15",
+            "autor": "Agente",
+            "texto": " ...gmail.com."
+        },
+        {
+            "inicio": "138.15",
+            "fin": "141.47",
+            "autor": "Agente",
+            "texto": " Ok. Y sería aguablancaamelia.gmail.com."
+        },
+        {
+            "inicio": "142.95",
+            "fin": "143.67",
+            "autor": "Agente",
+            "texto": " Muchísimas gracias."
+        },
+        {
+            "inicio": "144.11",
+            "fin": "147.41",
+            "autor": "Agente",
+            "texto": " Y, finalmente, señorita Amelia, ¿me podría apoyar, por favor, con su fecha de nacimiento?"
+        },
+        {
+            "inicio": "149.03",
+            "fin": "150.93",
+            "autor": "Cliente",
+            "texto": " 501-1994."
+        },
+        {
+            "inicio": "152.41",
+            "fin": "153.85",
+            "autor": "Agente",
+            "texto": " 050194. Muchísimas gracias."
+        },
+        {
+            "inicio": "154.31",
+            "fin": "157.73",
+            "autor": "Agente",
+            "texto": " Muy bien. Y me gustaría también invitarla para que pudiera conocer personalmente el proyecto."
+        },
+        {
+            "inicio": "157.73",
+            "fin": "161.23",
+            "autor": "Agente",
+            "texto": " Estamos laburando de lunes a domingo de 10 de la mañana a 5 y media de la tarde."
+        },
+        {
+            "inicio": "161.35",
+            "fin": "163.73",
+            "autor": "Agente",
+            "texto": " No sé si ya cuenta con alguna fecha tentativa en la cual desvisitarnos."
+        },
+        {
+            "inicio": "165.82",
+            "fin": "166.62",
+            "autor": "Cliente",
+            "texto": " Yo creo que el martes."
+        },
+        {
+            "inicio": "166.72",
+            "fin": "167.32",
+            "autor": "Agente",
+            "texto": " El martes."
+        },
+        {
+            "inicio": "166.92",
+            "fin": "174.77",
+            "autor": "Cliente",
+            "texto": " A las tres aproximadamente."
+        },
+        {
+            "inicio": "167.48",
+            "fin": "168.72",
+            "autor": "Agente",
+            "texto": " Ok. Perfecto. ¿Alguna vez en especial?"
+        },
+        {
+            "inicio": "174.94",
+            "fin": "175.26",
+            "autor": "Agente",
+            "texto": " Perfecto."
+        },
+        {
+            "inicio": "175.34",
+            "fin": "176.26",
+            "autor": "Agente",
+            "texto": " Claro. Si no se preocupa, igual."
+        },
+        {
+            "inicio": "176.36",
+            "fin": "177.72",
+            "autor": "Agente",
+            "texto": " Es una fecha con un horario tentativo."
+        },
+        {
+            "inicio": "177.82",
+            "fin": "181.72",
+            "autor": "Agente",
+            "texto": " En caso de que quiera anteponerla o posponerla, únicamente nos indica y la recibimos sin ningún problema."
+        },
+        {
+            "inicio": "181.80",
+            "fin": "182.06",
+            "autor": "Agente",
+            "texto": " ¿Está bien?"
+        },
+        {
+            "inicio": "183.88",
+            "fin": "184.68",
+            "autor": "Agente",
+            "texto": " Perfecto, señorita Amelia."
+        },
+        {
+            "inicio": "184.76",
+            "fin": "189.46",
+            "autor": "Agente",
+            "texto": " Y ya para finalizar, es importante comentarle que toda la información va a ser manejada por uno de mis mejores expertos"
+        },
+        {
+            "inicio": "189.46",
+            "fin": "192.64",
+            "autor": "Agente",
+            "texto": " que se encuentran ubicados directamente en el proyecto, ya que yo les soy muy franco."
+        },
+        {
+            "inicio": "192.88",
+            "fin": "194.26",
+            "autor": "Agente",
+            "texto": " Únicamente soy un primer contacto."
+        },
+        {
+            "inicio": "194.54",
+            "fin": "197.96",
+            "autor": "Agente",
+            "texto": " Este experto que le comento en algún momento también va a intentar comunicarse con usted"
+        },
+        {
+            "inicio": "197.96",
+            "fin": "201.38",
+            "autor": "Agente",
+            "texto": " para platicar un poquito más de la propuesta, resolver las dudas que vayan surgiendo"
+        },
+        {
+            "inicio": "201.38",
+            "fin": "203.72",
+            "autor": "Agente",
+            "texto": " y, lo más importante, poder darle una asesoría."
+        },
+        {
+            "inicio": "204.08",
+            "fin": "206.00",
+            "autor": "Agente",
+            "texto": " No sé si es que se lo presente en este momento para que también se pueda comunicar con usted."
+        },
+        {
+            "inicio": "206.00",
+            "fin": "209.12",
+            "autor": "Agente",
+            "texto": " No, para que también usted tenga la certeza de quién es la persona que nos va a estar apoyando."
+        },
+        {
+            "inicio": "209.46",
+            "fin": "213.38",
+            "autor": "Agente",
+            "texto": " O bien, puede regalarme un horario donde el experto se pueda comunicar y no interrumpa sus actividades."
+        },
+        {
+            "inicio": "209.88",
+            "fin": "216.49",
+            "autor": "Cliente",
+            "texto": " Con que me mande WhatsApp, nada más."
+        },
+        {
+            "inicio": "216.45",
+            "fin": "217.13",
+            "autor": "Agente",
+            "texto": " Bien, claro que sí."
+        },
+        {
+            "inicio": "217.21",
+            "fin": "217.43",
+            "autor": "Agente",
+            "texto": " Muy bien."
+        },
+        {
+            "inicio": "217.51",
+            "fin": "218.31",
+            "autor": "Agente",
+            "texto": " Entonces, un momento más."
+        },
+        {
+            "inicio": "218.45",
+            "fin": "219.89",
+            "autor": "Agente",
+            "texto": " Ya le estamos compartiendo toda la información."
+        },
+        {
+            "inicio": "220.09",
+            "fin": "223.27",
+            "autor": "Agente",
+            "texto": " No sé si al momento haya alguna duda o algo más en lo que le pueda apoyar, señorita Amelia."
+        },
+        {
+            "inicio": "225.53",
+            "fin": "225.81",
+            "autor": "Agente",
+            "texto": " Perfecto."
+        },
+        {
+            "inicio": "225.83",
+            "fin": "228.57",
+            "autor": "Agente",
+            "texto": " Mi nombre es Eduardo Pastrana y le agradezco muchísimo el que haya tomado la llamada."
+        },
+        {
+            "inicio": "228.69",
+            "fin": "229.83",
+            "autor": "Agente",
+            "texto": " Le deseo que pase una excelente tarde."
+        },
+        {
+            "inicio": "231.34",
+            "fin": "231.94",
+            "autor": "Cliente",
+            "texto": " Igualmente, gracias."
+        },
+        {
+            "inicio": "231.67",
+            "fin": "232.37",
+            "autor": "Agente",
+            "texto": " Gracias. Hasta luego."
+        }
+    ]
+}
